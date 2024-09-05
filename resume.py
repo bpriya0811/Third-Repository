@@ -6,7 +6,7 @@ from PIL import Image
 current_dir = Path(__file__).parent if '__file__' in locals() else Path.cwd()
 css_file = current_dir/'style.css'
 resume_file = current_dir/'resume.pdf'
-image_file = current_dir/'profile-pic (1).png'
+image_file = current_dir/'profilepic.png'
 
 st.set_page_config(
     page_icon='📄',
@@ -51,9 +51,11 @@ st.write('Dynamic and results-driven MBA graduate specializing in Business Analy
 #Qualification
 #st.write('#')
 st.subheader('Qualification',divider='violet')
-st.write('**Masters of Business Administration |Business Analytics, Information System | Nov 2022 - Sep 2024 |** ')
+st.write('✔️**Masters of Business Administration |Business Analytics, Information System | Nov 2022 - Sep 2024 |** ')
 st.write('Chhatrapati Shahu Institute of Business Education and Research, Kolhapur')
-st.write('**Bachlors of Commerce | Accountacy | June 2019 - June 2022 |**')
+st.write('✔️**Certification Course | Python Full Stack Development |**')
+st.write('Shreekrupa Institute, Kolhapur')
+st.write('✔️**Bachlors of Commerce | Accountacy | June 2019 - June 2022 |**')
 st.write('R.B.Madkholkar College, Chandgad, Kolhapur')
 
 #Skilla
@@ -88,7 +90,7 @@ st.write("""
 #Projects
 st.subheader('Projects and Reports',divider='violet')
 st.write("""
-         - :blue[Retail] Analysis Hub:bar_chart: https://retailanalyzer.streamlit.app/
+         - :blue[Retail] Analysis Hub:bar_chart: : https://retailanalyzer.streamlit.app/
          - :red[Data] at Your Fingertips: https://datatodecisions.streamlit.app/""")
 
 
