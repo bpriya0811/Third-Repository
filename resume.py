@@ -53,7 +53,7 @@ st.write('Dynamic and results-driven MBA graduate specializing in Business Analy
 st.subheader('Qualification',divider='violet')
 st.write('✔️**Masters of Business Administration |Business Analytics, Information System | Nov 2022 - Sep 2024 |** ')
 st.write('Chhatrapati Shahu Institute of Business Education and Research, Kolhapur')
-st.write('✔️**Certification Course | Python Full Stack Development | Nov 20233 - May 2024**')
+st.write('✔️**Certification Course | Python Full Stack Development | Nov 2023 - May 2024**')
 st.write('Shreekrupa Institute, Kolhapur')
 st.write('✔️**Bachlors of Commerce | Accountacy | June 2019 - June 2022 |**')
 st.write('R.B.Madkholkar College, Chandgad, Kolhapur')
