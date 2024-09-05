@@ -30,7 +30,7 @@ with col1:
 with col2:
     st.title('Priyanka Ramesh Bamane')
     st.write('Business Analyst | Full Stack Developer')
-    st.download_button(label='Download my Resume',data=pdf_byte, file_name='priya resume.pdf',mime='applocation/octet-stream')
+    st.download_button(label='Download my Resume',data=pdf_byte, file_name='Priyanka Bamane.pdf',mime='applocation/octet-stream')
     st.write('brpiya0811@gmail.com')
 
 #Social Media Links 
