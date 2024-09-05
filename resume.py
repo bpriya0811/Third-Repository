@@ -91,7 +91,7 @@ st.write("""
 st.subheader('Projects and Reports',divider='violet')
 st.write("""
          - :blue[Retail] Analysis Hub:bar_chart: : https://retailanalyzer.streamlit.app/
-         - :red[Data] at Your Fingertips: https://datatodecisions.streamlit.app/""")
+         - :red[Data] at Your Fingertips : https://datatodecisions.streamlit.app/""")
 
 
 
